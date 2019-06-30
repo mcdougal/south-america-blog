@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cedric in the South</title>
+    <description>A blog about my month-long backpacking trip in South America
+</description>
+    <link>https://cedricmcdougal.com/sa/</link>
+    <atom:link href="https://cedricmcdougal.com/sa/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 03 Jan 2015 12:35:14 -0500</pubDate>
+    <lastBuildDate>Sat, 03 Jan 2015 12:35:14 -0500</lastBuildDate>
+    <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Salta</title>
+        <description>
+</description>
+        <pubDate>Tue, 06 Jun 2006 00:00:00 -0400</pubDate>
+        <link>https://cedricmcdougal.com/sa/6</link>
+        <guid isPermaLink="true">https://cedricmcdougal.com/sa/6</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Iguazú Falls</title>
+        <description>
+</description>
+        <pubDate>Thu, 05 May 2005 00:00:00 -0400</pubDate>
+        <link>https://cedricmcdougal.com/sa/5</link>
+        <guid isPermaLink="true">https://cedricmcdougal.com/sa/5</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Puerto Iguazú</title>
+        <description>
+</description>
+        <pubDate>Sun, 04 Apr 2004 00:00:00 -0500</pubDate>
+        <link>https://cedricmcdougal.com/sa/4</link>
+        <guid isPermaLink="true">https://cedricmcdougal.com/sa/4</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Buenos Aires</title>
+        <description>
+</description>
+        <pubDate>Mon, 03 Mar 2003 00:00:00 -0500</pubDate>
+        <link>https://cedricmcdougal.com/sa/3</link>
+        <guid isPermaLink="true">https://cedricmcdougal.com/sa/3</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Flight</title>
+        <description>
+</description>
+        <pubDate>Sat, 02 Feb 2002 00:00:00 -0500</pubDate>
+        <link>https://cedricmcdougal.com/sa/2</link>
+        <guid isPermaLink="true">https://cedricmcdougal.com/sa/2</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Plan</title>
+        <description>
+</description>
+        <pubDate>Mon, 01 Jan 2001 00:00:00 -0500</pubDate>
+        <link>https://cedricmcdougal.com/sa/1</link>
+        <guid isPermaLink="true">https://cedricmcdougal.com/sa/1</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
